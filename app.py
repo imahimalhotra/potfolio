@@ -12,13 +12,13 @@ profile_pic_path = current_dir / "assets" / "pic1.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Manoj Mahato"
 PAGE_ICON = ":wave:"
-NAME = "Manoj Mahato"
+NAME = "Mahi"
 DESCRIPTION = "SDE"
-EMAIL = "manojmahato08779@gmail.com"
+EMAIL = "imahimalhotra2002@gmail.com"
 SOCIAL_MEDIA = {
     "LeetCode": "https://leetcode.com/u/Fortnight_6969/",
-    "LinkedIn": "https://www.linkedin.com/in/manoj-mahato-5531531ba/",
-    "GitHub": "https://github.com/Manoj-Mahat0",
+    "LinkedIn": "https://www.linkedin.com/in/mahi-6221242b2",
+    "GitHub": "https://github.com/imahimalhotra",
     "Twitter": "https://twitter.com",
 }
 PROJECTS = {
