@@ -10,7 +10,7 @@ resume_file = current_dir / "assets" / "cv.pdf"
 profile_pic_path = current_dir / "assets" / "pic1.png"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Manoj Mahato"
+PAGE_TITLE = "Digital CV | Mahi"
 PAGE_ICON = ":wave:"
 NAME = "Mahi"
 DESCRIPTION = "SDE"
